@@ -1,0 +1,478 @@
+School,District,City,Zip,County,Is Title I,Is Charter,Is Magnet,Is Virtual,Number Students,Number Full-time Teachers,Student/Teacher Ratio,Student/Teacher Ratio,Percent Free/Disc Lunch,Percent Homes Rented,Percent parents with less than High School education,Percent Parents with Masters and above education,Percent Home Incomes less than Median income,Percent using Food stamps,Percent of Crimes
+CA School 1,Grossmont Union High,El Cajon,92020,San Diego County,Yes,No,No,No,59,3.5,16.8,0.46,0.02,0,0.03,0.32,0,0.12,0.51
+CA School 2,San Ramon Valley Unified,San Ramon,94582,Contra Costa County,No,No,No,No,3331,132.4,25.1,0.07,0.03,0,0.75,0.06,0,0.05,0.12
+CA School 3,Santa Cruz County Office of Education,Santa Cruz,95060,Santa Cruz County,No,Yes,No,No,549,32.2,17,0.12,0,0,0.05,0.15,0,0.12,0.68
+CA School 4,University Preparatory District,Redding,96001,Shasta County,(n/a),Yes,No,No,984,45.6,21.5,0.2,0.01,0.01,0.07,0.1,0,0.1,0.71
+CA School 5,Long Beach Unified,Long Beach,90815,Los Angeles County,No,No,No,No,402,17.2,23.3,0.39,0.07,0.01,0.25,0.32,0.01,0.1,0.23
+CA School 6,Los Gatos-Saratoga Union High,Saratoga,95070,Santa Clara County,(n/a),No,No,No,1371,69.5,19.7,0.02,0,0,0.62,0.04,0,0.09,0.25
+CA School 7,San Dieguito Union High,San Diego,92130,San Diego County,No,No,No,No,2572,93.5,27.5,0.06,0.01,0,0.34,0.08,0,0.04,0.54
+CA School 8,OCSA District,Santa Ana,92701,Orange County,Yes,Yes,No,No,2177,74.6,29.1,0.12,0.01,0,0.23,0.21,0,0.15,0.41
+CA School 9,Western Sierra Collegiate Academy District,Rocklin,95765,Placer County,(n/a),Yes,No,No,788,35.9,21.9,0.11,0.01,0.01,0.23,0.13,0,0.09,0.54
+CA School 10,Oak Park Unified,Oak Park,91377,Ventura County,Yes,No,No,No,1551,65.8,23.5,0.08,0.01,0,0.2,0.11,0,0.05,0.63
+CA School 11,Los Angeles County Office of Education,Pomona,91768,Los Angeles County,No,No,No,No,516,21.5,24,0.32,0.02,0,0.24,0.59,0,0.06,0.09
+CA School 12,Stockton Unified,Stockton,95202,San Joaquin County,Yes,Yes,No,No,432,10.6,40.6,0.51,0.03,0.01,0.44,0.45,0.01,0.01,0.06
+CA School 13,Huntington Beach Union High,Fountain Valley,92708,Orange County,No,No,No,No,3531,130.7,27,0.32,0.01,0,0.55,0.14,0.01,0.03,0.26
+CA School 14,Victor Valley Union High,Victorville,92392,San Bernardino County,Yes,No,No,No,1086,39.1,27.7,0.76,0.06,0,0.12,0.67,0.01,0.02,0.12
+CA School 15,Fremont Union High,Cupertino,95014,Santa Clara County,(n/a),No,No,No,2305,97,23.7,0.09,0.01,0,0.72,0.09,0,0.06,0.13
+CA School 16,Grove District,Redlands,92373,San Bernardino County,(n/a),Yes,No,No,228,16.4,13.9,0.18,0.02,0,0.12,0.25,0,0.05,0.56
+CA School 17,Porterville Unified,Strathmore,93267,Tulare County,Yes,Yes,Yes,No,510,20.5,24.8,0.64,0,0.01,0.05,0.7,0,0.02,0.22
+CA School 18,William S. Hart Union High,Saugus,91350,Los Angeles County,No,No,No,No,2481,95,26,0.17,0.02,0,0.09,0.33,0,0.05,0.51
+CA School 19,Glendale Unified,La Crescenta,91214,Los Angeles County,Yes,No,Yes,No,1111,43.2,25.6,0.56,0,0,0.11,0.06,0,0.01,0.83
+CA School 20,Fremont Unified,Fremont,94538,Alameda County,No,No,Yes,No,2294,102.8,22.3,0.17,0.01,0,0.76,0.09,0,0.02,0.11
+CA School 21,Placentia-Yorba Linda Unified,Placentia,92870,Orange County,No,No,No,No,183,7,26.1,0.16,0,0.01,0.18,0.23,0,0.04,0.55
+CA School 22,East Side Union High,San Jose,95132,Santa Clara County,No,No,Yes,No,2058,85.8,23.9,0.26,0.02,0,0.65,0.23,0.01,0.05,0.05
+CA School 23,Ventura Unified,Ventura,93023,Ventura County,No,No,No,No,246,9,27.3,0.31,0.02,0,0.02,0.27,0,0.03,0.65
+CA School 24,Santa Monica-Malibu Unified,Santa Monica,90405,Los Angeles County,No,No,No,No,2857,136.9,20.8,0.27,0.08,0,0.07,0.35,0,0.1,0.4
+CA School 25,Simi Valley Unified,Simi Valley,93063,Ventura County,No,No,Yes,No,1046,46,22.7,0.24,0.01,0,0.2,0.28,0,0.05,0.46
+CA School 26,Santa Ana Unified,Santa Ana,92706,Orange County,Yes,No,No,No,349,14.3,24.3,0.77,0,0,0.04,0.95,0,0,0.01
+CA School 27,Credo High District,Rohnert Park,94928,Sonoma County,(n/a),Yes,No,No,400,21.1,18.9,0.31,0.01,0,0.03,0.1,0,0.12,0.75
+CA School 28,Natomas Unified,Sacramento,95834,Sacramento County,No,Yes,Yes,No,619,32.9,18.7,0.48,0.06,0,0.44,0.27,0.02,0.05,0.16
+CA School 29,San Dieguito Union High,Encinitas,92024,San Diego County,No,No,No,No,1850,74.6,24.7,0.15,0,0,0.05,0.21,0,0.04,0.7
+CA School 30,Rowland Unified,Rowland Heights,91748,Los Angeles County,No,No,No,No,2017,79,25.5,0.63,0.01,0,0.51,0.42,0,0.02,0.03
+CA School 31,El Dorado Union High,El Dorado,95623,El Dorado County,No,Yes,No,Yes,110,4.5,24.4,0.14,0,0.01,0.01,0.13,0,0.09,0.76
+CA School 32,Kings Canyon Joint Unified,Reedley,93654,Fresno County,Yes,Yes,No,No,205,6.7,30.5,0.74,0,0.01,0.01,0.82,0,0.02,0.16
+CA School 33,San Mateo Union High,Burlingame,94010,San Mateo County,Yes,No,No,No,1492,73,20.4,0.12,0.01,0,0.24,0.17,0.01,0.54,0.03
+CA School 34,Guajome Park Academy Charter District,Vista,92083,San Diego County,Yes,Yes,No,No,1416,70.5,20,0.58,0.01,0.01,0.03,0.65,0,0.08,0.23
+CA School 35,Aspire Benjamin Holt College Preparatory Academy District,Stockton,95212,San Joaquin County,Yes,Yes,No,No,462,11.9,38.6,0.46,0.05,0.01,0.29,0.41,0.01,0.05,0.18
+CA School 36,Bonita Unified,La Verne,91750,Los Angeles County,No,No,No,No,1923,74.6,25.7,0.32,0.02,0,0.07,0.5,0,0.1,0.3
+CA School 37,San Gabriel Unified,San Gabriel,91776,Los Angeles County,No,No,No,No,1696,71.5,23.7,0.56,0.01,0,0.59,0.33,0,0.03,0.04
+CA School 38,Fremont Unified,Fremont,94536,Alameda County,Yes,No,No,No,1918,84.6,22.6,0.3,0.03,0,0.48,0.23,0.01,0.04,0.2
+CA School 39,Santa Clara Unified,Santa Clara,95054,Santa Clara County,No,No,No,No,101,,,0.44,0.08,0,0.26,0.33,0,0.13,0.21
+CA School 40,Escondido Charter High District,Escondido,92027,San Diego County,(n/a),Yes,No,No,856,50.7,16.8,0.41,0.03,0,0.09,0.42,0,0.05,0.41
+CA School 41,Beverly Hills Unified,Beverly Hills,90212,Los Angeles County,No,No,No,No,1384,79,17.5,0.17,0.03,0,0.12,0.1,0,0.03,0.71
+CA School 42,San Ramon Valley Unified,Danville,94526,Contra Costa County,No,No,No,No,2094,87.7,23.8,0.04,0.01,0,0.09,0.1,0,0.07,0.74
+CA School 43,Glendora Unified,Glendora,91741,Los Angeles County,No,No,No,No,2381,95.3,24.9,0.26,0.01,0,0.1,0.43,0,0.04,0.42
+CA School 44,Sweetwater Union High,Chula Vista,91915,San Diego County,No,No,No,No,2908,117.9,24.6,0.22,0.04,0,0.18,0.56,0,0.09,0.14
+CA School 45,Elk Grove Unified,Elk Grove,95757,Sacramento County,No,No,No,No,2207,98.8,22.3,0.31,0.15,0,0.29,0.23,0.01,0.09,0.23
+CA School 46,Fremont Union High,Sunnyvale,94087,Santa Clara County,(n/a),No,No,No,2081,95.9,21.6,0.31,0.02,0,0.33,0.4,0.01,0.06,0.19
+CA School 47,High Technical LA District,Lake Balboa,91406,Los Angeles County,Yes,Yes,No,No,401,13,30.8,0.45,0.02,0,0.08,0.33,0,0.03,0.53
+CA School 48,Clayton Valley Charter High District,Concord,94521,Contra Costa County,(n/a),Yes,No,No,2196,79.6,27.5,0.21,0.04,0,0.14,0.22,0.01,0.11,0.48
+CA School 49,San Juan Unified,Fair Oaks,95628,Sacramento County,No,No,No,No,2025,79.9,25.3,0.27,0.02,0.01,0.05,0.18,0,0.07,0.66
+CA School 50,San Mateo Union High,San Mateo,94402,San Mateo County,Yes,No,No,No,1675,78.7,21.2,0.23,0.01,0,0.28,0.27,0.04,0.34,0.05
+CA School 51,Lucia Mar Unified,Nipomo,93444,San Luis Obispo County,Yes,No,No,No,306,19.8,15.4,0.37,0.01,0.01,0.04,0.28,0,0.05,0.61
+CA School 52,Da Vinci Science District,El Segundo,90245,Los Angeles County,Yes,Yes,No,No,567,26.7,21.1,0.37,0.07,0,0.08,0.59,0,0.1,0.16
+CA School 53,San Francisco Unified,San Francisco,94115,San Francisco County,No,No,No,No,626,24.8,25.2,0.52,0.09,0.01,0.53,0.16,0.01,0.08,0.13
+CA School 54,San Mateo Union High,San Mateo,94403,San Mateo County,Yes,No,No,No,1569,84.1,18.6,0.22,0.01,0,0.2,0.33,0.01,0.38,0.07
+CA School 55,Placer Union High,Colfax,95713,Placer County,No,No,No,No,581,25.5,22.7,0.26,0.01,0,0.01,0.09,0,0.08,0.8
+CA School 56,Shasta Union High,Palo Cedro,96073,Shasta County,Yes,No,No,No,1403,55.6,25.2,0.26,0.01,0.03,0.02,0.09,0,0.06,0.79
+CA School 57,Marysville Joint Unified,Marysville,95901,Yuba County,Yes,Yes,No,No,400,20.6,19.4,0.57,0.02,0.01,0.05,0.38,0.01,0.11,0.44
+CA School 58,Anaheim Union High,La Palma,90623,Orange County,No,No,No,No,2435,92,26.4,0.49,0.04,0,0.34,0.42,0.01,0.04,0.16
+CA School 59,Alliance Dr. Olga Mohan High District,Los Angeles,90015,Los Angeles County,Yes,Yes,No,No,453,26,17.4,0.91,0,0,0.01,0.95,0,0.03,0
+CA School 60,Burbank Unified,Burbank,91505,Los Angeles County,No,No,No,No,86,2.2,39,0.27,0.01,0,0.07,0.21,0,0.12,0.59
+CA School 61,Riverside Unified,Riverside,92508,Riverside County,No,No,No,No,3071,119.6,25.6,0.34,0.08,0,0.11,0.36,0,0.06,0.38
+CA School 62,Newport-Mesa Unified,Newport Beach,92663,Orange County,No,No,No,No,2381,85.6,27.7,0.34,0.01,0,0.04,0.33,0,0.02,0.6
+CA School 63,Placentia-Yorba Linda Unified,Placentia,92870,Orange County,No,No,Yes,No,2724,109.6,24.8,0.58,0.01,0,0.22,0.61,0,0.01,0.14
+CA School 64,Bonita Unified,San Dimas,91773,Los Angeles County,No,No,No,No,1335,57.4,23.2,0.37,0.04,0,0.08,0.53,0,0.07,0.26
+CA School 65,Capistrano Unified,San Juan Capistrano,92675,Orange County,No,No,No,Yes,160,6,26.6,0.14,0.03,0,0.04,0.14,0.01,0.06,0.73
+CA School 66,Alameda Unified,Alameda,94501,Alameda County,No,No,No,No,1261,58.6,21.5,0.4,0.12,0.01,0.33,0.16,0.01,0.09,0.28
+CA School 67,Temecula Valley Unified,Temecula,92592,Riverside County,No,No,No,No,2914,106.4,27.3,0.27,0.03,0.01,0.07,0.33,0,0.08,0.49
+CA School 68,San Diego Unified,San Diego,92111,San Diego County,Yes,No,Yes,No,322,14,22.9,0.74,0.06,0,0.14,0.58,0.01,0.1,0.12
+CA School 69,Baker Valley Unified,Baker,92309,San Bernardino County,Yes,No,No,No,42,4.3,9.6,0.86,0,0,0,0.88,0,0,0.12
+CA School 70,Sierra-Plumas Joint Unified,Loyalton,96118,Sierra County,Yes,No,No,No,164,8.4,19.4,0.35,0.01,0,0,0.12,0,0.15,0.73
+CA School 71,Tustin Unified,Santa Ana,92705,Orange County,No,No,No,No,2467,86.5,28.5,0.3,0.01,0,0.09,0.44,0,0.03,0.42
+CA School 72,KIPP San Jose Collegiate District,San Jose,95133,Santa Clara County,Yes,Yes,No,No,530,27,19.6,0.69,0.01,0,0.25,0.73,0,0.01,0.01
+CA School 73,High Technical High North County District,San Marcos,92078,San Diego County,Yes,Yes,No,No,398,22,18,0.47,0.02,0.01,0.05,0.4,0.01,0.08,0.44
+CA School 74,El Monte Union High,Rosemead,91770,Los Angeles County,Yes,No,No,No,1844,85.8,21.4,0.8,0.01,0,0.47,0.5,0,0,0.02
+CA School 75,Steele Canyon High District,Spring Valley,91978,San Diego County,Yes,Yes,No,No,2154,75.4,28.5,0.29,0.06,0.01,0.03,0.45,0,0.09,0.37
+CA School 76,Phoenix Charter Academy District,Redding,96002,Shasta County,Yes,Yes,No,Yes,289,12.3,23.4,0.56,0,0.03,0.02,0.15,0,0.12,0.69
+CA School 77,Yosemite Valley Charter District,Fresno,93726,Fresno County,(n/a),Yes,No,No,1800,55.9,32.1,0.46,0.03,0.01,0.04,0.26,0,0.08,0.58
+CA School 78,Mueller Charter (Robert L.) District,Chula Vista,91910,San Diego County,Yes,Yes,No,No,1566,67.5,23.1,0.78,0.03,0,0.02,0.86,0,0.01,0.08
+CA School 79,Summit Public School K2 District,El Cerrito,94530,Contra Costa County,Yes,Yes,No,No,533,21.6,24.5,0.6,0.18,0,0.11,0.48,0,0.14,0.09
+CA School 80,Kings Canyon Joint Unified,Dunlap,93621,Fresno County,Yes,Yes,No,Yes,46,4.1,11.2,0.72,0,0,0.09,0.46,0,0.13,0.33
+CA School 81,Garden Grove Unified,Garden Grove,92840,Orange County,Yes,No,No,No,2284,92.4,24.7,0.65,0.01,0,0.41,0.5,0.01,0.01,0.06
+CA School 82,San Juan Unified,Sacramento,95864,Sacramento County,No,No,No,No,1875,78.3,23.9,0.21,0.04,0.01,0.07,0.18,0,0.08,0.63
+CA School 83,Chico Unified,Chico,95926,Butte County,No,No,No,No,1971,85,23.1,0.36,0.02,0.01,0.08,0.19,0.01,0.04,0.65
+CA School 84,Alliance Gertz-Ressler Richard Merkin 6-12 Complex District,Los Angeles,90007,Los Angeles County,Yes,Yes,No,No,973,46,21.1,0.95,0.01,0,0,0.99,0,0,0
+CA School 85,Novato Unified,Novato,94947,Marin County,No,No,No,No,1410,64.2,21.9,0.35,0.03,0.01,0.06,0.38,0,0.05,0.47
+CA School 86,Scott Valley Unified,Etna,96027,Siskiyou County,Yes,No,No,No,192,12,15.9,0.51,0.02,0.07,0.04,0.14,0,0.07,0.67
+CA School 87,Corona-Norco Unified,Corona,92881,Riverside County,Yes,No,No,No,3142,124.3,25.2,0.52,0.09,0.01,0.12,0.58,0.01,0.02,0.17
+CA School 88,Twin Hills Union Elementary,Sebastopol,95472,Sonoma County,No,Yes,No,Yes,234,12.2,19.1,0.21,0.01,0.01,0.03,0.16,0.01,0.05,0.74
+CA School 89,Rise Kohyang High District,Los Angeles,90057,Los Angeles County,Yes,Yes,No,No,288,17.1,16.7,0.89,0.04,0,0.39,0.56,0,0.01,0
+CA School 90,Sonora Union High,Sonora,95370,Tuolumne County,Yes,No,No,No,957,37.3,25.5,0.4,0.01,0.01,0.03,0.19,0,0.05,0.71
+CA School 91,Nevada County Office of Education,Nevada City,95959,Nevada County,No,Yes,No,No,706,36.2,19.4,0.43,0.01,0.02,0.02,0.12,0.01,0.02,0.81
+CA School 92,Center Joint Unified,Antelope,95843,Sacramento County,No,No,No,No,1292,62.5,20.6,0.59,0.14,0.01,0.12,0.26,0.01,0.04,0.43
+CA School 93,MIT Academy District,Vallejo,94589,Solano County,Yes,Yes,No,No,525,21,24.9,0.56,0.15,0,0.26,0.45,0.01,0.02,0.11
+CA School 94,Torrance Unified,Torrance,90504,Los Angeles County,No,No,No,No,1813,75.4,24,0.44,0.07,0,0.3,0.44,0.01,0.07,0.12
+CA School 95,Anaheim Union High,Cypress,90630,Orange County,No,No,No,No,2903,102,28.4,0.37,0.03,0,0.36,0.31,0,0.05,0.24
+CA School 96,San Francisco Unified,San Francisco,94121,San Francisco County,No,No,No,No,1995,85.9,23.2,0.49,0.05,0,0.61,0.18,0,0.07,0.1
+CA School 97,Fremont Unified,Fremont,94538,Alameda County,Yes,No,No,No,1292,63.6,20.3,0.43,0.05,0,0.38,0.34,0.01,0.03,0.19
+CA School 98,Alpha Cindy Avitia High District,San Jose,95122,Santa Clara County,Yes,Yes,No,No,438,26.3,16.6,0.88,0.01,0,0.08,0.82,0,0.01,0.08
+CA School 99,Classical Academy High District,Escondido,92025,San Diego County,(n/a),Yes,No,No,1205,49.5,24.3,0.12,0.01,0,0.04,0.19,0,0.11,0.66
+CA School 100,Grossmont Union High,Santee,92071,San Diego County,Yes,No,No,No,1730,63.5,27.2,0.4,0.02,0.01,0.04,0.28,0,0.08,0.58
+CA School 101,Yosemite Unified,Oakhurst,93644,Madera County,Yes,No,No,No,638,26.4,24.1,0.43,0,0.04,0.03,0.16,0,0.05,0.72
+CA School 102,Stockton Unified,Stockton,95207,San Joaquin County,Yes,Yes,No,No,216,7,30.8,0.55,0.1,0.02,0.13,0.65,0.01,0.01,0.09
+CA School 103,Oakland School for the Arts District,Oakland,94612,Alameda County,Yes,Yes,No,No,749,39.9,18.7,0.14,0.19,0.01,0.07,0.16,0,0.15,0.42
+CA School 104,Corona-Norco Unified,Corona,92880,Riverside County,No,No,No,No,4532,176.3,25.6,0.37,0.11,0,0.22,0.46,0,0.02,0.18
+CA School 105,Liberty Union High,Brentwood,94513,Contra Costa County,Yes,No,No,No,2708,119.4,22.6,0.27,0.06,0.01,0.06,0.35,0.01,0.06,0.46
+CA School 106,Clovis Unified,Fresno,93720,Fresno County,No,No,No,No,2018,91.2,22.1,0.4,0.05,0.01,0.11,0.43,0,0.03,0.38
+CA School 107,Carpinteria Unified,Carpinteria,93013,Santa Barbara County,No,No,No,No,610,33.6,18.1,0.55,0,0,0.02,0.74,0,0.02,0.22
+CA School 108,Audeo Charter II District,Oceanside,92056,San Diego County,Yes,Yes,No,No,228,5.9,38,0.55,0.04,0,0.04,0.48,0,0.08,0.36
+CA School 109,Mariposa County Unified,Mariposa,95338,Mariposa County,Yes,No,No,No,490,28.5,17.1,0.62,0.01,0.05,0.01,0.17,0,0.08,0.68
+CA School 110,West Covina Unified,West Covina,91790,Los Angeles County,No,No,No,No,832,36.6,22.7,0.71,0.03,0,0.17,0.73,0,0.01,0.06
+CA School 111,Durham Unified,Durham,95938,Butte County,No,No,No,No,309,15.3,20.1,0.36,0.01,0.02,0,0.23,0,0.04,0.7
+CA School 112,Gateway High District,San Francisco,94115,San Francisco County,Yes,Yes,No,No,479,27.8,17.2,0.42,0.13,0.01,0.18,0.36,0,0.11,0.21
+CA School 113,Lompoc Unified,Lompoc,93436,Santa Barbara County,Yes,No,No,No,1176,55.2,21.2,0.46,0.03,0,0.04,0.47,0,0.06,0.39
+CA School 114,Los Angeles Unified,Los Angeles,90023,Los Angeles County,Yes,No,Yes,No,207,12.5,16.5,0.59,0.01,0,0.01,0.98,0,0,0.01
+CA School 115,Elk Grove Unified,Sacramento,95829,Sacramento County,No,No,No,No,2523,109.4,23,0.57,0.14,0,0.37,0.24,0.01,0.07,0.16
+CA School 116,Los Angeles Unified,Los Angeles,90059,Los Angeles County,Yes,No,Yes,No,1567,66.5,23.5,0.85,0.4,0,0.01,0.58,0,0,0.01
+CA School 117,California Pacific Charter - San Diego District,Newport Beach,92660,San Diego County,(n/a),Yes,No,Yes,1133,77.9,14.5,0.3,0.02,0,0.1,0.26,0,0.13,0.49
+CA School 118,Kern High,Bakersfield,93311,Kern County,Yes,No,No,No,2323,80,29,0.36,0.06,0.01,0.19,0.44,0,0.05,0.26
+CA School 119,Tracy Joint Unified,Tracy,95376,San Joaquin County,No,No,No,No,1999,80.8,24.7,0.37,0.05,0.01,0.14,0.46,0,0.03,0.31
+CA School 120,Los Angeles Unified,Carson,90745,Los Angeles County,Yes,No,No,No,517,25,20.6,0.64,0.11,0,0.43,0.4,0.03,0,0.03
+CA School 121,Los Angeles Unified,Los Angeles,90019,Los Angeles County,No,No,No,No,480,,,0.42,0.25,0,0.13,0.32,0,0,0.3
+CA School 122,Shasta Union High,Redding,96001,Shasta County,Yes,No,No,No,1521,67.7,22.4,0.37,0.02,0.04,0.05,0.13,0.01,0.06,0.7
+CA School 123,Benicia Unified,Benicia,94510,Solano County,No,No,No,No,1555,69.4,22.4,0.21,0.08,0,0.15,0.18,0,0.14,0.44
+CA School 124,Pasadena Unified,Pasadena,91104,Los Angeles County,Yes,No,No,No,1987,77.4,25.6,0.59,0.08,0,0.07,0.6,0,0.04,0.21
+CA School 125,Santa Rosa High,Santa Rosa,95401,Sonoma County,Yes,No,No,No,1948,86,22.6,0.37,0.02,0.01,0.06,0.39,0.01,0.08,0.45
+CA School 126,Bear Valley Unified,Big Bear Lake,92314,San Bernardino County,No,No,No,No,717,32.8,21.8,0.68,0.01,0,0.01,0.35,0,0.03,0.6
+CA School 127,Amador County Unified,Jackson,95642,Amador County,Yes,No,No,No,474,22.3,21.2,0.36,0.01,0.02,0.02,0.23,0,0.07,0.65
+CA School 128,Turlock Unified,Turlock,95380,Stanislaus County,No,No,No,No,2528,109.8,23,0.63,0.02,0.01,0.03,0.6,0,0.02,0.33
+CA School 129,Los Angeles Unified,Los Angeles,90047,Los Angeles County,Yes,No,No,No,404,15,26.9,0.85,0.37,0,0,0.62,0,0,0.01
+CA School 130,Exeter Unified,Exeter,93221,Tulare County,Yes,No,No,No,912,38.1,23.8,0.56,0.01,0.01,0.01,0.53,0,0.01,0.43
+CA School 131,Conservatory of Vocal/Instrumental Arts High District,Oakland,94619,Alameda County,Yes,Yes,No,No,74,4,18.5,0.55,0.58,0,0.05,0.23,0.01,0.01,0.11
+CA School 132,Burbank Unified,Burbank,91502,Los Angeles County,No,No,No,No,2556,105.6,24.2,0.42,0.03,0,0.1,0.26,0,0.04,0.57
+CA School 133,Yreka Union High,Yreka,96097,Siskiyou County,Yes,No,No,No,587,31.7,18.4,0.46,0,0.04,0.02,0.16,0,0.12,0.66
+CA School 134,Alder Grove Charter School 2 District,Eureka,95501,Humboldt County,Yes,Yes,No,No,477,25.4,18.7,0.68,0.01,0.03,0,0.12,0,0.15,0.7
+CA School 135,Oroville Union High,Oroville,95966,Butte County,Yes,No,No,No,979,43.3,22.6,0.79,0.05,0.09,0.23,0.17,0,0.01,0.45
+CA School 136,Fullerton Joint Union High,Fullerton,92832,Orange County,Yes,No,Yes,No,1979,71.4,27.7,0.51,0.02,0,0.08,0.66,0,0.03,0.2
+CA School 137,San Diego Unified,San Diego,92101,San Diego County,Yes,No,Yes,No,1239,43.6,28.3,0.51,0.06,0,0.03,0.57,0,0.07,0.27
+CA School 138,Making Waves Academy District,Richmond,94806,Contra Costa County,Yes,Yes,No,No,940,48,19.5,0.83,0.08,0,0.02,0.86,0,0.03,0.01
+CA School 139,Plumas Unified,Portola,96122,Plumas County,No,No,No,No,280,12.8,21.7,0.47,0,0,0,0.27,0,0.06,0.67
+CA School 140,Downtown College Prep - Alum Rock District,San Jose,95122,Santa Clara County,Yes,Yes,No,No,668,25.5,26.1,0.75,0.02,0,0.05,0.89,0,0.02,0.02
+CA School 141,Glendale Unified,Glendale,91202,Los Angeles County,Yes,No,No,No,1605,69.3,23.1,0.67,0.02,0,0.13,0.23,0,0.01,0.61
+CA School 142,Calipatria Unified,Calipatria,92233,Imperial County,Yes,No,No,No,355,20.4,17.4,0.79,0.01,0,0,0.88,0,0,0.11
+CA School 143,El Dorado County Office of Education,Placerville,95667,El Dorado County,Yes,Yes,No,No,479,24.2,19.7,0.3,0.02,0.02,0.01,0.15,0,0.08,0.73
+CA School 144,Whittier Union High,Whittier,90601,Los Angeles County,Yes,No,No,No,1876,75.8,24.7,0.77,0.01,0,0.01,0.93,0,0.01,0.04
+CA School 145,Sacramento City Unified,Sacramento,95827,Sacramento County,Yes,No,No,No,1311,57.5,22.7,0.67,0.18,0.01,0.13,0.33,0.02,0.07,0.28
+CA School 146,Synergy Quantum Academy District,Los Angeles,90011,Los Angeles County,Yes,Yes,No,No,553,34,16.2,0.98,0.01,0,0,0.99,0,0,0
+CA School 147,Merced Union High,Merced,95348,Merced County,Yes,No,No,No,1631,75.8,21.5,0.67,0.05,0.01,0.14,0.61,0,0.02,0.18
+CA School 148,Anderson Union High,Cottonwood,96022,Shasta County,Yes,No,No,No,867,37.7,22.9,0.46,0,0.04,0.02,0.16,0,0.05,0.73
+CA School 149,River Delta Joint Unified,Clarksburg,95612,Yolo County,No,No,No,No,192,11.9,16,0.56,0,0,0.01,0.7,0,0.03,0.27
+CA School 150,Plumas Unified,Quincy,95971,Plumas County,No,No,No,No,293,16.2,18,0.35,0.03,0.02,0,0.09,0,0.04,0.82
+CA School 151,Rim of the World Unified,Lake Arrowhead,92352,San Bernardino County,Yes,No,No,No,915,41.6,21.9,0.51,0.01,0,0.01,0.36,0,0.05,0.56
+CA School 152,Delano Joint Union High,Delano,93215,Kern County,Yes,No,No,No,1395,61.9,22.5,0.93,0,0,0.15,0.83,0,0,0.01
+CA School 153,Leadership Public Schools - Hayward District,Hayward,94545,Alameda County,Yes,Yes,No,No,595,25.3,23.5,0.62,0.03,0,0.21,0.67,0.02,0.04,0.02
+CA School 154,Salinas Union High,Salinas,93901,Monterey County,Yes,No,No,No,2661,123.2,21.5,0.54,0.01,0,0.04,0.71,0,0.01,0.22
+CA School 155,Oceanside Unified,Oceanside,92057,San Diego County,Yes,No,No,No,2958,113.7,25.9,0.49,0.05,0,0.1,0.57,0.02,0.05,0.22
+CA School 156,Woodland Joint Unified,Woodland,95776,Yolo County,Yes,No,No,No,1544,72.3,21.3,0.55,0.01,0,0.09,0.68,0.01,0.03,0.19
+CA School 157,San Juan Unified,Sacramento,95821,Sacramento County,No,No,No,No,1320,56.1,23.5,0.47,0.09,0.01,0.06,0.26,0.01,0.07,0.5
+CA School 158,JCS - Pine Hills District,Temecula,92592,Riverside County,(n/a),Yes,No,No,709,41.2,17.1,0.18,0.04,0.02,0.03,0.26,0,0.09,0.57
+CA School 159,Sutter Union High,Sutter,95982,Sutter County,Yes,No,No,No,737,31.3,23.5,0.32,0,0.02,0.04,0.25,0,0.04,0.65
+CA School 160,Aspire Langston Hughes Academy District,Stockton,95205,San Joaquin County,Yes,Yes,No,No,756,33.2,22.7,0.71,0.14,0.01,0.08,0.67,0,0.04,0.06
+CA School 161,Hanford Joint Union High,Hanford,93230,Kings County,Yes,No,No,No,1559,63.8,24.4,0.67,0.04,0,0.01,0.68,0,0.01,0.25
+CA School 162,Kerman Unified,Kerman,93630,Fresno County,Yes,No,No,No,1528,61,25,0.76,0.01,0,0.06,0.83,0,0.01,0.09
+CA School 163,Gilroy Unified,Gilroy,95020,Santa Clara County,No,No,No,No,1629,70.9,22.9,0.41,0.02,0.01,0.08,0.6,0,0.06,0.24
+CA School 164,Futures High District,Sacramento,95838,Sacramento County,Yes,Yes,No,No,372,18,20.6,0.91,0.01,0,0.02,0.09,0,0.01,0.86
+CA School 165,Long Valley District,Doyle,96109,Lassen County,Yes,Yes,No,No,232,10.1,22.8,0.6,0.01,0.03,0.01,0.14,0,0.08,0.72
+CA School 166,Santa Ana Unified,Santa Ana,92704,Orange County,Yes,No,No,No,2449,95.7,25.5,0.86,0,0,0.01,0.98,0,0,0
+CA School 167,Anderson Union High,Anderson,96007,Shasta County,Yes,No,No,No,538,24.9,21.6,0.65,0.03,0.07,0.07,0.25,0.01,0.03,0.55
+CA School 168,John Henry High District,Richmond,94804,Contra Costa County,Yes,Yes,No,No,320,,,0.84,0.03,0,0.02,0.95,0,0,0
+CA School 169,Bellflower Unified,Lakewood,90713,Los Angeles County,No,No,No,No,2889,124.3,23.2,0.57,0.15,0,0.11,0.53,0.01,0.04,0.15
+CA School 170,Azusa Unified,Covina,91722,Los Angeles County,Yes,No,No,No,1084,48.4,22.3,0.79,0.01,0,0.02,0.93,0,0.01,0.03
+CA School 171,Sanger Unified,Sanger,93657,Fresno County,Yes,No,No,No,3102,124.5,24.9,0.7,0.01,0,0.13,0.74,0,0.02,0.11
+CA School 172,High Technical High District,San Diego,92106,San Diego County,Yes,Yes,No,No,525,33,15.9,0.43,0.05,0.01,0.07,0.47,0,0.07,0.34
+CA School 173,South San Francisco Unified,South San Francisco,94080,San Mateo County,No,No,No,No,1321,61.8,21.3,0.44,0.01,0,0.31,0.57,0.02,0.04,0.04
+CA School 174,Clovis Unified,Clovis,93611,Fresno County,No,No,No,No,74,5.7,12.9,0.46,0.04,0.01,0.08,0.32,0,0.05,0.49
+CA School 175,Hilmar Unified,Hilmar,95324,Merced County,No,No,No,No,696,32.2,21.5,0.53,0.01,0,0.01,0.43,0,0.01,0.54
+CA School 176,San Diego Unified,San Diego,92101,San Diego County,Yes,No,No,No,110,8,13.7,0.85,0.06,0,0.06,0.79,0,0.04,0.06
+CA School 177,Pajaro Valley Unified,Watsonville,95076,Santa Cruz County,Yes,Yes,No,No,75,5,15,0.89,0.01,0,0.04,0.8,0,0,0.15
+CA School 178,Glendale Unified,Glendale,91205,Los Angeles County,Yes,No,No,No,2174,93,23.3,0.73,0.01,0,0.13,0.34,0,0.01,0.51
+CA School 179,Encore High School for the Arts - Riverside District,Riverside,92501,Riverside County,Yes,Yes,No,No,872,29.3,29.7,0.31,0.14,0.01,0.02,0.44,0,0.04,0.36
+CA School 180,San Bernardino City Unified,San Bernardino,92407,San Bernardino County,Yes,No,Yes,No,2812,107,26.2,0.74,0.14,0,0.02,0.68,0.01,0.02,0.12
+CA School 181,West Contra Costa Unified,El Cerrito,94530,Contra Costa County,No,No,No,No,1506,61.8,24.3,0.42,0.19,0,0.21,0.27,0.01,0.03,0.3
+CA School 182,Colusa Unified,Colusa,95932,Colusa County,No,No,No,No,398,22.5,17.6,0.58,0,0.02,0.01,0.69,0,0,0.28
+CA School 183,Marysville Joint Unified,Marysville,95901,Yuba County,Yes,No,No,No,938,43.1,21.7,0.68,0.05,0.05,0.07,0.31,0.01,0.04,0.48
+CA School 184,Los Angeles Unified,Los Angeles,90025,Los Angeles County,Yes,Yes,No,No,1511,67.5,22.3,0.74,0.25,0,0.09,0.53,0,0,0.13
+CA School 185,John Swett Unified,Crockett,94525,Contra Costa County,Yes,No,No,No,453,23,19.6,0.49,0.16,0,0.25,0.33,0,0.08,0.18
+CA School 186,Central Union High,El Centro,92243,Imperial County,Yes,No,No,No,1851,86.6,21.3,0.77,0.01,0,0,0.96,0,0,0.03
+CA School 187,Los Angeles Unified,Granada Hills,91344,Los Angeles County,Yes,No,Yes,No,2349,98.8,23.7,0.75,0.03,0,0.06,0.81,0,0,0.1
+CA School 188,Templeton Unified,Templeton,93465,San Luis Obispo County,Yes,No,No,No,71,4,17.7,0.31,0,0,0.01,0.2,0,0.14,0.65
+CA School 189,Woodlake Unified,Woodlake,93286,Tulare County,Yes,No,No,No,657,29.5,22.2,0.85,0,0,0.01,0.9,0,0,0.09
+CA School 190,Los Angeles Unified,Chatsworth,91311,Los Angeles County,Yes,Yes,No,No,1758,80.3,21.8,0.66,0.06,0,0.13,0.65,0,0,0.15
+CA School 191,Alliance Susan and Eric Smidt Technology High District,Los Angeles,90031,Los Angeles County,Yes,Yes,No,No,541,30.3,17.8,0.9,0.02,0,0.02,0.94,0,0.01,0
+CA School 192,Fallbrook Union High,Fallbrook,92028,San Diego County,Yes,No,No,No,1981,92.4,21.4,0.59,0.01,0.01,0.02,0.68,0,0.03,0.26
+CA School 193,Delano Joint Union High,Delano,93215,Kern County,Yes,No,No,No,1239,56,22,0.94,0.01,0,0.08,0.91,0,0,0.01
+CA School 194,Rialto Unified,Rialto,92376,San Bernardino County,Yes,No,No,No,2711,115,23.5,0.92,0.05,0,0.02,0.9,0,0,0.02
+CA School 195,Audeo Charter District,San Diego,92121,San Diego County,Yes,Yes,No,No,518,19.7,26.2,0.6,0.11,0,0.02,0.51,0,0.1,0.25
+CA School 196,Los Angeles Unified,Los Angeles,90034,Los Angeles County,Yes,No,Yes,No,2602,111,23.4,0.65,0.26,0,0.05,0.52,0,0,0.16
+CA School 197,Alvord Unified,Riverside,92503,Riverside County,No,No,No,No,1638,66.5,24.6,0.58,0.06,0,0.1,0.63,0,0.03,0.18
+CA School 198,Napa Valley Unified,Napa,94558,Napa County,No,No,No,No,1801,78.1,23,0.4,0.01,0,0.02,0.51,0,0.05,0.42
+CA School 199,Da Vinci Design District,Hawthorne,90250,Los Angeles County,Yes,Yes,No,No,573,27.3,20.9,0.5,0.16,0,0.02,0.67,0.01,0.08,0.08
+CA School 200,Anaheim Union High,Anaheim,92804,Orange County,Yes,No,No,No,1994,75,26.5,0.81,0.02,0,0.12,0.78,0.01,0.01,0.07
+CA School 201,Mirus Secondary District,Hesperia,92345,San Bernardino County,Yes,Yes,No,No,214,8,26.7,0.64,0.05,0,0.02,0.69,0,0.05,0.19
+CA School 202,Sweetwater Union High,Chula Vista,91911,San Diego County,Yes,No,No,No,111,8.3,13.3,0.78,0.01,0.01,0.07,0.73,0,0.04,0.14
+CA School 203,Silver Oak High Public Montessori Charter District,Hayward,94541,Alameda County,Yes,Yes,No,No,218,11.1,19.6,0.6,0.04,0.01,0.11,0.62,0.01,0.05,0.17
+CA School 204,Calexico Unified,Calexico,92231,Imperial County,Yes,No,No,No,3031,121.6,24.9,0.83,0,0,0,0.99,0,0,0
+CA School 205,PUC Early College Academy for Leaders&Scholars(ECALS) Distr,Los Angeles,90065,Los Angeles County,Yes,Yes,No,No,347,21,16.5,0.67,0.01,0,0.04,0.92,0,0.02,0.01
+CA School 206,San Bernardino City Unified,San Bernardino,92405,San Bernardino County,Yes,No,Yes,No,1593,79,20.1,0.92,0.09,0,0.01,0.84,0,0.01,0.04
+CA School 207,Animo Jackie Robinson High District,Los Angeles,90007,Los Angeles County,Yes,Yes,No,No,611,32,19,0.98,0.04,0,0,0.94,0,0.01,0.01
+CA School 208,Los Angeles Unified,Tujunga,91042,Los Angeles County,Yes,No,Yes,No,1297,62.3,20.8,0.75,0.03,0,0.07,0.58,0,0,0.32
+CA School 209,Norwalk-La Mirada Unified,La Mirada,90638,Los Angeles County,No,No,No,No,1982,86.6,22.8,0.55,0.02,0,0.1,0.68,0.01,0.02,0.17
+CA School 210,Glendale Unified,La Crescenta,91214,Los Angeles County,Yes,No,No,No,122,3,40.6,0.45,0.03,0,0.13,0.19,0,0.05,0.61
+CA School 211,Newport-Mesa Unified,Costa Mesa,92627,Orange County,Yes,No,No,No,1268,54.2,23.3,0.73,0.01,0,0.04,0.77,0.01,0.01,0.17
+CA School 212,Mt. Diablo Unified,Concord,94521,Contra Costa County,No,No,No,No,1385,69.5,19.9,0.53,0.04,0,0.12,0.51,0.01,0.04,0.29
+CA School 213,San Jose Unified,San Jose,95126,Santa Clara County,Yes,No,No,No,1805,78.2,23,0.54,0.03,0,0.05,0.74,0.01,0.03,0.14
+CA School 214,Santa Ana Unified,Santa Ana,92704,Orange County,Yes,No,No,No,2435,89.3,27.2,0.68,0,0,0.07,0.9,0,0.01,0.01
+CA School 215,Antioch Unified,Antioch,94531,Contra Costa County,No,No,No,No,1986,81.5,24.3,0.6,0.31,0.01,0.14,0.34,0.01,0.06,0.14
+CA School 216,Los Angeles Unified,Bell,90201,Los Angeles County,Yes,No,Yes,No,2395,98.8,24.2,0.92,0,0,0,0.96,0,0,0.03
+CA School 217,Health Sciences High District,San Diego,92105,San Diego County,Yes,Yes,No,No,575,27.5,20.9,0.7,0.2,0,0.05,0.67,0,0.04,0.05
+CA School 218,El Monte Union High,El Monte,91732,Los Angeles County,Yes,No,No,No,1347,68,19.7,0.93,0,0,0.06,0.93,0,0,0
+CA School 219,Rowland Unified,La Puente,91744,Los Angeles County,Yes,No,No,No,1891,82.5,22.9,0.86,0.01,0,0.1,0.86,0,0.01,0.02
+CA School 220,Holtville Unified,Holtville,92250,Imperial County,Yes,No,No,No,528,26.5,19.9,0.72,0,0,0,0.87,0,0.02,0.11
+CA School 221,Accelerated Achievement Academy District,Ukiah,95482,Mendocino County,Yes,Yes,No,No,146,7,20.8,0.86,0,0.06,0.01,0.46,0,0.08,0.4
+CA School 222,Corcoran Joint Unified,Corcoran,93212,Kings County,Yes,No,No,No,864,40,21.5,0.83,0.03,0,0.01,0.89,0,0,0.07
+CA School 223,North Monterey County Unified,Castroville,95012,Monterey County,Yes,No,No,No,1263,55.9,22.5,0.81,0.01,0,0.02,0.85,0,0,0.12
+CA School 224,Los Angeles Unified,Los Angeles,90028,Los Angeles County,Yes,No,Yes,No,1481,62,23.8,0.86,0.12,0,0.08,0.68,0,0,0.12
+CA School 225,Hayward Unified,Hayward,94545,Alameda County,Yes,No,No,No,1979,85.2,23.2,0.65,0.08,0.01,0.28,0.55,0.04,0.02,0.04
+CA School 226,Woodland Joint Unified,Woodland,95695,Yolo County,Yes,No,No,No,1325,68.9,19.2,0.59,0.01,0.01,0.03,0.71,0.01,0.02,0.2
+CA School 227,San Bernardino City Unified,San Bernardino,92411,San Bernardino County,Yes,No,Yes,No,2621,100,26.1,0.94,0.05,0,0.01,0.9,0.01,0.01,0.01
+CA School 228,Desert Sands Unified,Indio,92201,Riverside County,No,No,No,No,2087,77.5,26.8,0.63,0.02,0,0.02,0.8,0,0.02,0.14
+CA School 229,Brawley Union High,Brawley,92227,Imperial County,Yes,No,No,No,1771,71.8,24.6,0.76,0.01,0,0.01,0.93,0,0,0.06
+CA School 230,Pivot Charter School - San Diego II District,San Marcos,92078,San Diego County,(n/a),Yes,No,Yes,115,43.2,2.6,0.44,0.04,0.02,0.03,0.3,0,0.07,0.55
+CA School 231,Vista Unified,Vista,92084,San Diego County,Yes,No,No,No,2360,127.6,18.4,0.66,0.02,0.01,0.02,0.77,0.01,0.03,0.16
+CA School 232,Napa Valley Unified,Napa,94558,Napa County,No,No,No,No,1892,83.5,22.6,0.52,0.01,0,0.01,0.66,0,0.03,0.28
+CA School 233,Ceres Unified,Ceres,95307,Stanislaus County,Yes,No,No,No,1744,81.4,21.4,0.8,0.02,0.01,0.05,0.76,0.01,0.01,0.15
+CA School 234,Riverbank Unified,Riverbank,95367,Stanislaus County,Yes,No,No,No,756,34,22.2,0.77,0.01,0,0.01,0.84,0,0.01,0.13
+CA School 235,Chawanakee Unified,O Neals,93645,Madera County,No,Yes,No,No,324,12.9,25,0.35,0.02,0.02,0.01,0.25,0,0.05,0.66
+CA School 236,Alliance Cindy and Bill Simon Technology Academy High Distr,Los Angeles,90059,Los Angeles County,Yes,Yes,No,No,508,27.7,18.3,0.97,0.1,0,0,0.89,0,0,0.01
+CA School 237,Oxnard Union High,Oxnard,93036,Ventura County,Yes,No,No,No,3099,125.6,24.6,0.73,0.01,0,0.03,0.94,0,0.01,0.01
+CA School 238,Manteca Unified,Stockton,95206,San Joaquin County,Yes,No,No,No,1191,62.4,19,0.68,0.17,0.01,0.21,0.51,0.01,0.03,0.07
+CA School 239,Options for Youth San Gabriel District,San Gabriel,91776,Los Angeles County,(n/a),Yes,No,No,689,44.7,15.4,0.53,0.05,0.01,0.02,0.35,0,0.36,0.2
+CA School 240,East Side Union High,San Jose,95122,Santa Clara County,Yes,No,Yes,No,1438,70.4,20.4,0.77,0.02,0,0.15,0.8,0.01,0.01,0.01
+CA School 241,Modesto City High,Modesto,95351,Stanislaus County,Yes,No,No,No,2514,100.3,25,0.78,0.03,0,0.09,0.72,0.01,0.05,0.11
+CA School 242,Los Angeles Unified,Maywood,90270,Los Angeles County,Yes,No,No,No,1225,51,24,0.92,0,0,0.01,0.98,0,0,0.01
+CA School 243,Manteca Unified,Manteca,95336,San Joaquin County,Yes,No,No,No,1663,80.9,20.5,0.54,0.05,0.01,0.12,0.55,0.01,0.02,0.24
+CA School 244,Merced County Office of Education,Merced,95341,Merced County,Yes,Yes,No,No,129,7.3,17.5,0.66,0.05,0.02,0.02,0.66,0.01,0.05,0.19
+CA School 245,Delhi Unified,Delhi,95315,Merced County,Yes,No,No,No,769,33,23.3,0.83,0.01,0,0.03,0.87,0,0.01,0.08
+CA School 246,Siskiyou Union High,Weed,96094,Siskiyou County,Yes,No,No,No,195,11.1,17.5,0.56,0.04,0.01,0.04,0.23,0,0.15,0.53
+CA School 247,Oxnard Union High,Oxnard,93030,Ventura County,Yes,No,No,No,2229,97.2,22.9,0.64,0.03,0,0.06,0.8,0,0.02,0.09
+CA School 248,Elk Grove Unified,Sacramento,95828,Sacramento County,Yes,No,No,No,1548,81.9,18.8,0.92,0.12,0,0.41,0.36,0.03,0.03,0.05
+CA School 249,Covina-Valley Unified,Covina,91722,Los Angeles County,No,No,No,No,1247,54.7,22.7,0.74,0.03,0,0.06,0.86,0,0.01,0.05
+CA School 250,Modesto City High,Modesto,95355,Stanislaus County,Yes,No,No,No,1654,67.3,24.5,0.55,0.03,0,0.06,0.42,0.01,0.09,0.39
+CA School 251,ACE Charter High District,San Jose,95133,Santa Clara County,Yes,Yes,No,No,363,14,25.8,0.76,0.01,0,0.02,0.97,0,0,0
+CA School 252,Del Norte County Unified,Crescent City,95531,Del Norte County,Yes,No,No,No,934,41.8,22.3,0.59,0.01,0.14,0.07,0.24,0,0.05,0.49
+CA School 253,Lone Pine Unified,Lone Pine,93545,Inyo County,No,No,No,No,89,4.6,19.3,0.51,0,0.17,0.02,0.53,0,0.05,0.24
+CA School 254,Folsom-Cordova Unified,Rancho Cordova,95670,Sacramento County,Yes,No,Yes,No,1855,88.6,20.9,0.67,0.11,0.01,0.11,0.35,0.02,0.07,0.35
+CA School 255,Fortuna Union High,Fortuna,95540,Humboldt County,Yes,No,No,No,857,41.1,20.8,0.5,0,0.03,0.01,0.27,0,0.07,0.62
+CA School 256,Venture Academy District,Stockton,95206,San Joaquin County,(n/a),Yes,No,No,1590,80.5,19.7,0.58,0.06,0.01,0.03,0.67,0,0.05,0.19
+CA School 257,Livermore Valley Joint Unified,Livermore,94550,Alameda County,No,No,No,No,136,14.8,9.1,0.3,0.03,0.01,0.03,0.32,0,0.1,0.52
+CA School 258,Los Angeles Unified,Reseda,91335,Los Angeles County,Yes,Yes,Yes,No,1362,75.3,18,0.83,0.06,0,0.09,0.71,0,0,0.14
+CA School 259,Mission Academy District,Acton,93510,Los Angeles County,(n/a),Yes,No,Yes,106,10,10.6,0.8,0.15,0.04,0.01,0.61,0,0.04,0.15
+CA School 260,Cotati-Rohnert Park Unified,Rohnert Park,94928,Sonoma County,No,No,No,No,1505,70.7,21.2,0.38,0.02,0.01,0.03,0.47,0.01,0.09,0.37
+CA School 261,Los Angeles Unified,San Fernando,91340,Los Angeles County,Yes,No,Yes,No,434,23.8,18.2,0.85,0.05,0.01,0.02,0.89,0,0,0.03
+CA School 262,Kern High,Bakersfield,93308,Kern County,Yes,No,No,No,1829,82.8,22,0.75,0.04,0.01,0.01,0.36,0,0.02,0.56
+CA School 263,Salinas Union High,Salinas,93905,Monterey County,Yes,No,No,No,2904,117,24.8,0.84,0,0,0.01,0.98,0,0,0.01
+CA School 264,Los Angeles Unified,Los Angeles,90031,Los Angeles County,Yes,No,Yes,No,1066,58.5,18.2,0.94,0.02,0,0.24,0.73,0,0,0.02
+CA School 265,Los Angeles Unified,Carson,90745,Los Angeles County,Yes,No,No,No,1499,63.2,23.6,0.71,0.2,0,0.18,0.54,0.05,0,0.03
+CA School 266,Big Valley Joint Unified,Bieber,96009,Lassen County,No,No,No,No,66,5.3,12.4,0.65,0,0.03,0,0.18,0,0.03,0.76
+CA School 267,Temecula Valley Unified,Temecula,92592,Riverside County,No,No,No,No,247,10.9,22.6,0.24,0,0.01,0.04,0.35,0,0.08,0.51
+CA School 268,Animo Ralph Bunche Charter High District,Los Angeles,90011,Los Angeles County,Yes,Yes,No,No,612,28.5,21.4,0.98,0.01,0,0,0.99,0,0,0
+CA School 269,Paramount Unified,Paramount,90723,Los Angeles County,Yes,No,No,No,4602,182.6,25.1,0.96,0.08,0,0.01,0.88,0.01,0.01,0.01
+CA School 270,Ukiah Unified,Ukiah,95482,Mendocino County,Yes,No,No,No,115,5.9,19.4,0.57,0.02,0.05,0.02,0.19,0,0.05,0.67
+CA School 271,ARISE High District,Oakland,94601,Alameda County,Yes,Yes,No,No,317,15.1,20.9,0.72,0.02,0.01,0.04,0.92,0,0.02,0
+CA School 272,Palm Springs Unified,Palm Springs,92264,Riverside County,Yes,No,No,No,218,12.6,17.1,0.71,0.07,0.01,0.01,0.6,0.01,0.06,0.26
+CA School 273,Hacienda la Puente Unified,La Puente,91744,Los Angeles County,Yes,No,No,No,1071,46.5,23,0.89,0.01,0,0.03,0.95,0,0.01,0.01
+CA School 274,Fort Bragg Unified,Fort Bragg,95437,Mendocino County,Yes,No,No,No,512,32.3,15.8,0.61,0.01,0.01,0.01,0.42,0,0.06,0.49
+CA School 275,Lodi Unified,Stockton,95210,San Joaquin County,Yes,No,No,No,1822,83.2,21.8,0.78,0.11,0,0.45,0.35,0.02,0.02,0.04
+CA School 276,Alliance Morgan McKinzie High District,Los Angeles,90063,Los Angeles County,Yes,Yes,No,No,438,18,24.3,0.93,0,0,0,0.99,0,0,0
+CA School 277,Muroc Joint Unified,Boron,93516,Kern County,Yes,No,No,No,237,16.7,14.1,0.58,0.06,0.02,0,0.35,0.01,0.08,0.48
+CA School 278,Farmersville Unified,Farmersville,93223,Tulare County,Yes,No,No,No,718,32.5,22,0.91,0,0,0.01,0.95,0,0,0.04
+CA School 279,Lighthouse Community Charter High District,Oakland,94621,Alameda County,Yes,Yes,No,No,280,15,18.6,0.79,0.11,0,0.03,0.82,0,0,0.04
+CA School 280,Aspire Richmond Ca. College Preparatory Academy District,Richmond,94806,Contra Costa County,Yes,Yes,No,No,541,18.1,29.8,0.66,0.13,0.01,0.1,0.74,0,0.02,0.01
+CA School 281,Armona Union Elementary,Hanford,93230,Kings County,Yes,Yes,No,Yes,172,8.2,20.8,0.87,0.04,0.01,0.01,0.67,0,0.03,0.25
+CA School 282,Konocti Unified,Lower Lake,95457,Lake County,Yes,No,No,No,870,40.5,21.4,0.77,0.02,0.02,0.01,0.5,0,0.09,0.36
+CA School 283,Pomona Unified,Pomona,91767,Los Angeles County,Yes,No,No,No,446,28.6,15.5,0.93,0.04,0,0.02,0.89,0,0.03,0.02
+CA School 284,Travis Unified,Fairfield,94533,Solano County,No,No,No,No,66,5,13.2,0.44,0.08,0,0.08,0.33,0,0.11,0.41
+CA School 285,Kern High,Bakersfield,93304,Kern County,Yes,No,No,No,2161,85.5,25.2,0.94,0.08,0,0.03,0.83,0,0.01,0.04
+CA School 286,Gonzales Unified,Gonzales,93926,Monterey County,Yes,No,No,No,817,36.8,22.1,0.72,0,0.01,0.01,0.97,0,0,0.02
+CA School 287,Kern High,Bakersfield,93306,Kern County,Yes,No,No,No,2104,83,25.3,0.86,0.03,0,0.01,0.9,0,0,0.06
+CA School 288,Biggs Unified,Biggs,95917,Butte County,No,No,No,No,223,14.2,15.6,0.65,0.03,0.01,0.02,0.39,0,0.01,0.53
+CA School 289,Lake Elsinore Unified,Lake Elsinore,92530,Riverside County,No,No,No,No,1840,82,22.4,0.75,0.03,0,0.03,0.73,0,0.03,0.16
+CA School 290,West Contra Costa Unified,Richmond,94803,Contra Costa County,Yes,No,No,No,1368,60.8,22.4,0.72,0.22,0,0.19,0.46,0.01,0.03,0.09
+CA School 291,Latino College Preparatory Academy District,San Jose,95127,Santa Clara County,Yes,Yes,No,No,410,17.3,23.6,0.82,0,0,0,0.97,0,0.02,0.01
+CA School 292,Sweetwater Union High,San Diego,92154,San Diego County,Yes,No,No,No,1775,83,21.3,0.76,0.02,0,0.03,0.94,0,0.01,0.01
+CA School 293,Hesperia Unified,Hesperia,92345,San Bernardino County,Yes,No,No,No,2019,90.8,22.2,0.64,0.08,0,0.02,0.76,0,0.01,0.12
+CA School 294,Orange Unified,Orange,92867,Orange County,Yes,No,No,No,1727,81.5,21.1,0.74,0.01,0,0.05,0.86,0,0.01,0.06
+CA School 295,Bert Corona Charter High District,Pacoima,91331,Los Angeles County,Yes,Yes,No,No,243,14,17.3,0.81,0.01,0,0,0.98,0,0,0
+CA School 296,Hemet Unified,Anza,92539,Riverside County,Yes,No,No,No,275,19.9,13.8,0.67,0,0.05,0.03,0.38,0,0.03,0.51
+CA School 297,Sacramento City Unified,Sacramento,95823,Sacramento County,Yes,No,No,No,1730,83.9,20.6,0.85,0.22,0,0.28,0.41,0.03,0.02,0.03
+CA School 298,Liberty Union High,Brentwood,94513,Contra Costa County,No,No,No,No,250,11.8,21.1,0.21,0.09,0,0.04,0.27,0.02,0.06,0.52
+CA School 299,Sonora Union High,Sonora,95370,Tuolumne County,No,No,No,No,49,2,24.5,0.35,0,0.02,0.02,0.14,0.02,0.08,0.71
+CA School 300,Animo Pat Brown District,Los Angeles,90001,Los Angeles County,Yes,Yes,No,No,600,28,21.4,0.96,0.01,0,0,0.99,0,0,0.01
+CA School 301,Kelseyville Unified,Kelseyville,95451,Lake County,No,No,No,No,518,28.2,18.3,0.76,0,0.02,0,0.42,0.01,0.06,0.48
+CA School 302,Los Angeles Unified,San Fernando,91340,Los Angeles County,Yes,No,No,No,339,17.5,19.3,0.91,0.04,0,0,0.94,0,0,0.02
+CA School 303,Fairfield-Suisun Unified,Fairfield,94533,Solano County,No,No,No,No,1489,60.3,24.6,0.72,0.21,0.01,0.13,0.45,0.02,0.06,0.11
+CA School 304,Inglewood Unified,Inglewood,90301,Los Angeles County,Yes,Yes,No,No,339,12,28.2,0.74,0.55,0.01,0.01,0.43,0,0,0
+CA School 305,Kern High,Lake Isabella,93240,Kern County,Yes,No,No,No,480,26.5,18,0.73,0.01,0.03,0.01,0.17,0,0.05,0.74
+CA School 306,Borrego Springs Unified,Borrego Springs,92004,San Diego County,Yes,No,No,No,121,8.1,14.8,0.86,0.01,0,0.01,0.84,0,0.01,0.14
+CA School 307,New Haven Unified,Union City,94587,Alameda County,Yes,No,No,No,121,5.7,21.2,0.47,0.07,0,0.12,0.63,0.02,0.06,0.1
+CA School 308,Moreno Valley Unified,Moreno Valley,92553,Riverside County,Yes,No,No,Yes,172,7,24.5,0.79,0.2,0,0.01,0.6,0.01,0.04,0.14
+CA School 309,Warner Unified,Warner Springs,92086,San Diego County,Yes,No,No,No,87,7.1,12.2,0.85,0.02,0.26,0.01,0.35,0,0.07,0.29
+CA School 310,Centinela Valley Union High,Lawndale,90260,Los Angeles County,Yes,No,No,No,1925,99.3,19.3,0.84,0.18,0,0.05,0.72,0.02,0.03,0.01
+CA School 311,Fresno Unified,Fresno,93726,Fresno County,Yes,No,Yes,No,1092,48.3,22.5,0.9,0.03,0,0.18,0.74,0,0.01,0.04
+CA School 312,Visalia Unified,Visalia,93291,Tulare County,Yes,Yes,No,No,546,54.4,10,0.7,0.02,0.01,0.02,0.67,0,0.05,0.23
+CA School 313,Merced Union High,Livingston,95334,Merced County,Yes,No,No,No,1243,57.8,21.5,0.8,0.01,0.01,0.11,0.83,0,0,0.04
+CA School 314,San Luis Coastal Unified,San Luis Obispo,93405,San Luis Obispo County,Yes,No,No,No,38,2.1,17.5,0.76,0.03,0,0.03,0.45,0,0.03,0.47
+CA School 315,Laton Joint Unified,Laton,93242,Fresno County,Yes,No,No,No,183,14.7,12.4,0.81,0.01,0,0,0.84,0,0.07,0.08
+CA School 316,Los Angeles Unified,Los Angeles,90033,Los Angeles County,Yes,No,No,No,1278,65.3,19.5,0.95,0,0,0.01,0.99,0,0,0.01
+CA School 317,Envision Academy for Arts & Technology District,Oakland,94612,Alameda County,Yes,Yes,No,No,385,18.5,20.8,0.8,0.33,0.01,0.02,0.56,0.01,0.04,0.04
+CA School 318,Los Angeles Unified,Panorama City,91402,Los Angeles County,Yes,No,No,No,1135,50.5,22.4,0.94,0.02,0,0.06,0.89,0,0,0.03
+CA School 319,Pleasanton Unified,Pleasanton,94566,Alameda County,Yes,No,No,No,113,11.4,9.9,0.32,0.04,0,0.08,0.27,0,0.05,0.56
+CA School 320,Klamath-Trinity Joint Unified,Hoopa,95546,Humboldt County,Yes,No,No,No,243,19.8,12.2,0.95,0,0.83,0,0.07,0.01,0.03,0.07
+CA School 321,Perris Union High,Perris,92571,Riverside County,Yes,No,No,No,2245,86.8,25.8,0.86,0.06,0,0.01,0.9,0,0.01,0.02
+CA School 322,New Designs Charter School-Watts District,Los Angeles,90061,Los Angeles County,Yes,Yes,No,No,400,10,40,0.93,0.53,0,0,0.46,0.01,0.01,0
+CA School 323,Victor Valley Union High,Adelanto,92392,San Bernardino County,Yes,No,No,No,1854,69.8,26.5,0.86,0.23,0,0.01,0.68,0.01,0.03,0.04
+CA School 324,Dublin Unified,Dublin,94568,Alameda County,Yes,No,No,No,60,7,8.5,0.35,0.2,0,0.12,0.3,0,0.1,0.28
+CA School 325,Lynwood Unified,Lynwood,90262,Los Angeles County,Yes,No,No,No,1693,75.1,22.5,0.89,0.05,0,0,0.94,0,0,0.01
+CA School 326,Centinela Valley Union High,Hawthorne,90250,Los Angeles County,Yes,No,No,No,1844,92.3,19.9,0.85,0.1,0,0.02,0.84,0,0.02,0.02
+CA School 327,Claremont Unified,Claremont,91711,Los Angeles County,No,No,No,No,58,4.5,12.7,0.66,0.07,0,0.02,0.66,0,0.02,0.24
+CA School 328,Mt. Diablo Unified,Concord,94520,Contra Costa County,Yes,No,No,No,1448,72.4,20,0.8,0.08,0,0.12,0.67,0.01,0.04,0.07
+CA School 329,Los Angeles Unified,Los Angeles,90003,Los Angeles County,Yes,No,Yes,No,1980,83.8,23.6,0.95,0.09,0,0,0.9,0,0,0.01
+CA School 330,Western Placer Unified,Lincoln,95648,Placer County,Yes,No,No,No,100,4.8,20.8,0.47,0.04,0,0.01,0.37,0,0.04,0.54
+CA School 331,Victor Valley Union High,Victorville,92395,San Bernardino County,Yes,No,No,No,1829,68.3,26.7,0.91,0.21,0,0.02,0.65,0.01,0.03,0.08
+CA School 332,McFarland Unified,Mc Farland,93250,Kern County,Yes,No,No,No,932,43.2,21.5,0.9,0,0,0.01,0.98,0,0,0.01
+CA School 333,Walnut Valley Unified,Walnut,91789,Los Angeles County,No,No,No,No,21,3.2,6.5,0.38,0.05,0,0.05,0.71,0,0,0.19
+CA School 334,Val Verde Unified,Moreno Valley,92551,Riverside County,Yes,No,No,Yes,116,7,16.5,0.76,0.16,0,0.02,0.63,0.01,0.03,0.15
+CA School 335,San Diego Unified,San Diego,92113,San Diego County,Yes,No,No,No,1541,65.7,23.4,0.84,0.19,0,0.05,0.7,0.01,0.03,0.03
+CA School 336,Grossmont Union High,Spring Valley,91977,San Diego County,Yes,No,No,No,1298,60.2,21.5,0.79,0.16,0,0.06,0.66,0.01,0.05,0.07
+CA School 337,San Bernardino City Unified,San Bernardino,92404,San Bernardino County,Yes,No,No,No,1210,58.1,20.8,0.91,0.15,0,0.01,0.77,0.01,0.02,0.05
+CA School 338,Chawanakee Unified,O Neals,93645,Madera County,No,Yes,No,No,262,10.2,25.6,0.47,0.02,0.06,0.02,0.19,0,0.01,0.71
+CA School 339,Santa Rosa High,Santa Rosa,95403,Sonoma County,Yes,No,No,No,1388,58.2,23.8,0.52,0.03,0.02,0.06,0.67,0.01,0.04,0.17
+CA School 340,West Contra Costa Unified,San Pablo,94806,Contra Costa County,No,No,No,No,253,17.8,14.2,0.73,0.26,0,0.13,0.43,0,0.04,0.15
+CA School 341,Palos Verdes Peninsula Unified,Rolling Hills,90274,Los Angeles County,No,No,No,No,47,6,7.8,0.28,0.06,0.02,0.09,0.23,0,0.09,0.51
+CA School 342,Shasta County Office of Education,Redding,96003,Shasta County,Yes,No,No,No,123,4.7,26.1,0.67,0.02,0.05,0.02,0.12,0,0.02,0.76
+CA School 343,Santa Ana Unified,Santa Ana,92707,Orange County,Yes,No,No,No,1574,72.1,21.8,0.81,0,0,0.02,0.95,0,0,0.02
+CA School 344,Williams Unified,Williams,95987,Colusa County,Yes,No,No,No,581,27.6,21,0.9,0,0,0.02,0.95,0,0.01,0.03
+CA School 345,Mojave River Academy - Marble City District,Phelan,92371,San Bernardino County,(n/a),Yes,No,No,94,8.4,11.1,0.77,0.02,0.01,0.01,0.61,0,0.01,0.34
+CA School 346,Summit Leadership Academy-High Desert District,Hesperia,92345,San Bernardino County,Yes,Yes,No,No,304,22.7,13.3,0.78,0.11,0.01,0,0.7,0,0.05,0.13
+CA School 347,Desert Sands Unified,La Quinta,92253,Riverside County,Yes,No,No,No,304,12.3,24.7,0.7,0.03,0,0.01,0.75,0,0.02,0.17
+CA School 348,Grossmont Union High,El Cajon,92021,San Diego County,Yes,No,No,No,1689,75.6,22.3,0.93,0.08,0,0.04,0.4,0,0.03,0.45
+CA School 349,Corona-Norco Unified,Corona,92879,Riverside County,No,No,No,No,134,4.5,29.7,0.46,0.06,0,0.05,0.55,0,0.01,0.34
+CA School 350,Yuba City Charter District,Yuba City,95991,Sutter County,Yes,Yes,No,No,245,17.6,13.8,0.91,0.01,0.02,0.06,0.56,0,0.04,0.3
+CA School 351,Bear Valley Unified,Big Bear Lake,92314,San Bernardino County,Yes,No,No,No,41,3,13.4,0.95,0.02,0,0,0.32,0,0.05,0.61
+CA School 352,Antelope Valley Union High,Lancaster,93535,Los Angeles County,Yes,No,No,No,2439,99.9,24.4,0.81,0.24,0,0.02,0.63,0,0.05,0.06
+CA School 353,Ramona City Unified,Ramona,92065,San Diego County,Yes,No,No,No,137,6.8,20.1,0.5,0.03,0.01,0,0.45,0.01,0.04,0.46
+CA School 354,Insight @ San Joaquin District,Simi Valley,93065,Ventura County,Yes,Yes,No,Yes,257,7.2,35.4,0.63,0.14,0.04,0.04,0.14,0,0.31,0.34
+CA School 355,Antelope Valley Union High,Palmdale,93550,Los Angeles County,Yes,No,No,No,2523,107.8,23.3,0.81,0.16,0,0.01,0.77,0,0.02,0.04
+CA School 356,Antelope Valley Union High,Littlerock,93543,Los Angeles County,Yes,No,No,No,1483,60.4,24.5,0.81,0.06,0,0,0.8,0,0.02,0.11
+CA School 357,Da Vinci RISE High District,El Segundo,90245,Los Angeles County,Yes,Yes,No,Yes,132,9.1,14.5,0.7,0.29,0,0,0.61,0,0.06,0.04
+CA School 358,San Diego Unified,San Diego,92111,San Diego County,Yes,No,No,No,315,29.4,10.6,0.81,0.09,0.01,0.07,0.66,0,0.06,0.12
+CA School 359,Oakland Unified,Oakland,94603,Alameda County,Yes,No,No,No,774,43.9,17.5,0.94,0.15,0,0.01,0.81,0.01,0.01,0.01
+CA School 360,Riverside Unified,Riverside,92506,Riverside County,No,No,No,No,253,9.1,27.6,0.56,0.05,0,0.01,0.57,0,0.03,0.33
+CA School 361,Upper Lake Unified,Upper Lake,95485,Lake County,Yes,No,No,No,293,14.5,20.1,0.6,0.01,0.09,0.01,0.32,0,0.07,0.5
+CA School 362,Big Oak Flat-Groveland Unified,La Grange,95329,Tuolumne County,Yes,No,No,No,51,5,10.2,0.55,0,0.02,0,0.22,0,0.06,0.71
+CA School 363,Central Union High,El Centro,92243,Imperial County,Yes,No,No,No,144,9.7,14.8,0.83,0.01,0,0,0.98,0.01,0,0.01
+CA School 364,Magnolia Science Academy 4 District,Los Angeles,90064,Los Angeles County,Yes,Yes,No,No,176,9.8,17.9,0.7,0.18,0,0.01,0.77,0,0,0.05
+CA School 365,Olive Grove Charter - Lompoc District,Lompoc,93436,Santa Barbara County,Yes,Yes,No,No,117,8.6,13.6,0.74,0.01,0.02,0,0.74,0,0.08,0.15
+CA School 366,Diego Hills Central Public Charter District,San Diego,92115,San Diego County,(n/a),Yes,No,No,748,34.1,21.9,0.82,0.14,0,0.03,0.63,0,0.06,0.13
+CA School 367,Mojave River Academy - Silver Mountain District,Barstow,92311,San Bernardino County,(n/a),Yes,No,No,363,15.3,23.5,0.75,0.09,0.02,0,0.44,0,0.06,0.4
+CA School 368,Rim of the World Unified,Lake Arrowhead,92325,San Bernardino County,Yes,No,No,No,55,3,18.3,0.71,0,0,0,0.38,0,0.04,0.58
+CA School 369,East Side Union High,San Jose,95133,Santa Clara County,Yes,No,No,No,114,6,19,0.53,0.08,0.02,0.12,0.66,0.02,0.04,0.07
+CA School 370,Los Angeles Unified,Van Nuys,91401,Los Angeles County,Yes,No,No,No,120,6,20,0.98,0.06,0,0.01,0.87,0,0,0.07
+CA School 371,Stockton Unified,Stockton,95202,San Joaquin County,Yes,No,No,No,205,4.3,47.2,0.82,0.12,0.06,0.03,0.71,0.01,0,0.06
+CA School 372,Long Beach Unified,Long Beach,90813,Los Angeles County,No,No,No,No,807,18,44.8,0.56,0.17,0,0.04,0.67,0.02,0.02,0.09
+CA School 373,San Juan Unified,Fair Oaks,95628,Sacramento County,Yes,No,No,No,53,2,25.7,0.62,0.09,0.04,0.04,0.19,0.06,0.04,0.55
+CA School 374,Fillmore Unified,Fillmore,93015,Ventura County,Yes,No,No,No,55,4.1,13.4,0.89,0,0,0,0.96,0,0,0.04
+CA School 375,Orange County Workforce Innovation High District,Anaheim,92801,Orange County,(n/a),Yes,No,No,209,8.5,24.5,0.79,0.03,0.01,0.03,0.75,0,0.04,0.13
+CA School 376,Nevada Joint Union High,Grass Valley,95945,Nevada County,No,No,No,No,32,2,16,0.38,0.03,0,0.03,0.03,0,0.03,0.88
+CA School 377,Oroville Union High,Oroville,95965,Butte County,Yes,No,No,No,109,8.6,12.6,0.95,0.06,0.09,0.05,0.3,0,0.04,0.47
+CA School 378,Alpaugh Unified,Alpaugh,93201,Tulare County,Yes,No,No,No,78,6.1,12.6,0.95,0,0,0,0.94,0,0,0.06
+CA School 379,Los Angeles Unified,Los Angeles,90036,Los Angeles County,Yes,No,No,No,70,3,23.3,0.66,0.13,0,0.09,0.74,0,0,0.04
+CA School 380,Calexico Unified,Calexico,92231,Imperial County,Yes,No,No,No,164,11,14.9,0.95,0,0,0,1,0,0,0
+CA School 381,Leadership Military Academy - Indio District,Indio,92201,Riverside County,Yes,Yes,No,No,93,7,13.2,0.85,0,0.01,0,0.97,0,0,0.02
+CA School 382,Elk Grove Unified,Sacramento,95823,Sacramento County,Yes,No,No,No,138,10,13.8,0.7,0.24,0.01,0.05,0.51,0.02,0.12,0.05
+CA School 383,Folsom-Cordova Unified,Folsom,95630,Sacramento County,No,No,No,No,97,8.6,11.2,0.38,0.02,0,0.09,0.27,0,0.06,0.56
+CA School 384,SIATech District,Oceanside,92056,San Diego County,Yes,Yes,No,No,1137,38,29.8,0.86,0.14,0.01,0.03,0.68,0,0.07,0.07
+CA School 385,Jefferson Union High,Daly City,94014,San Mateo County,No,No,No,No,124,9.2,13.4,0.36,0.04,0,0.19,0.52,0.01,0.09,0.15
+CA School 386,San Diego Unified,San Diego,92101,San Diego County,Yes,No,Yes,No,531,28.1,18.8,0.82,0.06,0,0.01,0.86,0,0.02,0.05
+CA School 387,Kings Valley Academy II District,Hanford,93280,Kings County,(n/a),Yes,No,No,849,35.2,24,0.88,0.03,0.01,0.01,0.75,0,0.03,0.17
+CA School 388,Riverside Unified,Riverside,92506,Riverside County,Yes,No,No,No,42,3.4,12.3,0.79,0.14,0,0,0.6,0,0.05,0.21
+CA School 389,Alain Leroy Locke College Preparatory Academy District,Los Angeles,90061,Los Angeles County,Yes,Yes,No,No,1393,76,18.3,0.96,0.24,0,0,0.76,0,0,0
+CA School 390,Sutter Union High,Sutter,95982,Sutter County,Yes,No,No,No,36,1.9,18,0.56,0,0.08,0,0.39,0,0,0.53
+CA School 391,Pasadena Unified,Pasadena,91107,Los Angeles County,Yes,No,No,No,205,9.2,22.2,0.52,0.09,0,0.03,0.71,0,0.03,0.14
+CA School 392,Lemoore Union High,Lemoore,93245,Kings County,Yes,No,No,No,100,7,14.2,0.79,0.04,0.07,0,0.75,0,0,0.14
+CA School 393,Los Angeles Unified,Chatsworth,91311,Los Angeles County,Yes,No,No,No,70,5.5,12.7,0.96,0.21,0,0,0.67,0,0.01,0.1
+CA School 394,Ojai Unified,Ojai,93023,Ventura County,Yes,No,No,No,58,2.9,19.8,0.66,0,0,0,0.29,0,0,0.71
+CA School 395,Val Verde Unified,Perris,92571,Riverside County,Yes,No,No,No,270,25,10.8,0.84,0.18,0.01,0.03,0.74,0,0.01,0.03
+CA School 396,Tahoe-Truckee Unified,Truckee,96161,Nevada County,Yes,No,No,No,50,3.6,13.8,0.58,0,0,0,0.66,0,0,0.34
+CA School 397,Snowline Joint Unified,Phelan,92329,San Bernardino County,Yes,No,No,No,159,7.8,20.1,0.71,0.04,0,0.01,0.47,0,0.14,0.35
+CA School 398,Burbank Unified,Burbank,91506,Los Angeles County,No,No,No,No,141,9,15.6,0.49,0.02,0,0.02,0.59,0,0.03,0.34
+CA School 399,America's Finest Charter District,San Diego,92102,San Diego County,Yes,Yes,No,No,446,25,17.8,0.96,0.2,0,0.04,0.7,0.01,0,0.04
+CA School 400,Gridley Unified,Gridley,95948,Butte County,Yes,No,No,No,33,1.9,17.3,0.64,0,0,0,0.39,0,0.09,0.52
+CA School 401,San Benito High,Hollister,95023,San Benito County,Yes,No,No,No,103,3.9,26,0.79,0.01,0,0.01,0.87,0,0.01,0.1
+CA School 402,San Jacinto Unified,San Jacinto,92582,Riverside County,Yes,No,No,No,250,11,22.7,0.79,0.12,0.02,0,0.73,0,0.03,0.09
+CA School 403,Yucaipa-Calimesa Joint Unified,Yucaipa,92399,San Bernardino County,Yes,No,No,No,82,7.2,11.3,0.92,0.05,0.01,0.01,0.62,0,0.01,0.29
+CA School 404,Woodlake Unified,Visalia,93292,Tulare County,Yes,No,No,No,22,1.6,13.7,0.86,0,0,0,0.96,0,0,0.05
+CA School 405,Santa Clara County Office of Education,San Jose,95131,Santa Clara County,Yes,Yes,No,No,291,9,32.3,0.81,0.05,0.01,0.01,0.87,0.01,0.01,0.05
+CA School 406,Los Angeles Unified,Los Angeles,90021,Los Angeles County,Yes,No,No,No,559,27,20.7,0.86,0.1,0.01,0.01,0.85,0,0,0.03
+CA School 407,Redlands Unified,Redlands,92374,San Bernardino County,Yes,No,No,No,208,18.5,11.2,0.89,0.07,0.01,0.02,0.71,0.01,0.03,0.16
+CA School 408,South San Francisco Unified,South San Francisco,94080,San Mateo County,No,No,No,No,107,6.7,15.9,0.5,0.04,0,0.12,0.74,0.04,0.02,0.05
+CA School 409,Mojave River Academy - Rockview Park District,Hesperia,92345,San Bernardino County,(n/a),Yes,No,No,111,10.4,10.6,0.87,0.09,0,0,0.67,0,0.04,0.21
+CA School 410,San Lorenzo Unified,Hayward,94541,Alameda County,No,No,No,No,105,7.8,13.4,0.59,0.25,0.01,0.05,0.63,0,0.02,0.05
+CA School 411,Linden Unified,Stockton,95215,San Joaquin County,No,No,No,No,45,2.3,19.3,0.73,0.04,0,0.04,0.73,0,0,0.18
+CA School 412,Los Angeles Unified,Canoga Park,91303,Los Angeles County,Yes,No,No,No,106,6.5,16.3,0.93,0.01,0,0.02,0.93,0,0,0.04
+CA School 413,Pomona Unified,Pomona,91767,Los Angeles County,Yes,Yes,No,No,398,15.7,25.2,0.93,0.06,0,0,0.84,0,0.04,0.06
+CA School 414,Cuyama Joint Unified,New Cuyama,93254,Santa Barbara County,Yes,No,No,No,47,6.2,7.5,0.81,0,0,0,0.87,0,0.02,0.11
+CA School 415,Selma Unified,Selma,93662,Fresno County,Yes,No,No,No,63,5.6,11.1,0.84,0.02,0,0,0.95,0,0,0.03
+CA School 416,Delano Joint Union High,Delano,93215,Kern County,Yes,No,No,No,97,8.4,11.5,0.95,0.01,0,0.04,0.95,0,0,0
+CA School 417,Garden Grove Unified,Garden Grove,92841,Orange County,Yes,No,No,No,238,14,17,0.78,0,0,0.06,0.83,0.02,0.01,0.08
+CA School 418,Windsor Unified,Windsor,95492,Sonoma County,Yes,No,No,No,87,9.8,8.8,0.41,0,0.03,0,0.52,0,0.02,0.43
+CA School 419,Oakland Unified,Oakland,94609,Alameda County,Yes,No,No,No,107,4.5,23.7,0.86,0.47,0,0.03,0.43,0,0.05,0.03
+CA School 420,Lucia Mar Unified,Arroyo Grande,93420,San Luis Obispo County,Yes,No,No,No,105,8.5,12.2,0.82,0.01,0,0.01,0.57,0.02,0.01,0.38
+CA School 421,Modesto City High,Modesto,95350,Stanislaus County,Yes,No,No,No,505,39.5,12.7,0.77,0.06,0.01,0.03,0.71,0.01,0.06,0.13
+CA School 422,Moreno Valley Unified,Moreno Valley,92553,Riverside County,Yes,No,No,No,334,19.7,16.9,0.84,0.22,0.01,0.01,0.68,0.01,0.01,0.08
+CA School 423,Hemet Unified,Hemet,92543,Riverside County,Yes,No,No,No,329,18,18.2,0.88,0.14,0.02,0.01,0.62,0,0.05,0.17
+CA School 424,Rowland Unified,La Puente,91744,Los Angeles County,Yes,No,No,No,162,10.8,14.9,0.85,0.01,0.01,0.04,0.92,0,0,0.02
+CA School 425,East Side Union High,San Jose,95122,Santa Clara County,Yes,No,No,No,151,8,18.8,0.82,0.02,0.01,0.04,0.91,0,0,0.03
+CA School 426,Placer Union High,Auburn,95603,Placer County,Yes,No,No,No,72,3,24,0.6,0,0.06,0.01,0.31,0,0.06,0.57
+CA School 427,Ceres Unified,Ceres,95307,Stanislaus County,Yes,No,No,No,215,7.6,28,0.83,0.01,0.01,0.02,0.79,0.01,0.01,0.14
+CA School 428,Los Angeles Unified,Reseda,91335,Los Angeles County,Yes,No,No,No,99,6,16.5,0.94,0.02,0,0.03,0.9,0.02,0,0.03
+CA School 429,Beaumont Unified,Beaumont,92223,Riverside County,Yes,No,No,No,109,6.4,16.8,0.71,0.07,0.03,0,0.62,0,0.01,0.28
+CA School 430,Alvord Unified,Riverside,92505,Riverside County,Yes,No,No,No,163,7.3,22,0.9,0.01,0,0,0.93,0,0.01,0.05
+CA School 431,Dixon Unified,Dixon,95620,Solano County,No,No,No,No,83,5.4,15.3,0.64,0.01,0.01,0.01,0.59,0,0.04,0.34
+CA School 432,Merced County Office of Education,Atwater,95301,Merced County,Yes,No,No,No,137,7.2,18.8,0.83,0.12,0,0.02,0.75,0,0.02,0.1
+CA School 433,Santa Clara Unified,Santa Clara,95051,Santa Clara County,No,No,No,No,127,10.2,12.3,0.75,0.02,0,0.04,0.76,0.04,0.02,0.12
+CA School 434,Los Angeles Unified,Los Angeles,90043,Los Angeles County,Yes,No,Yes,No,750,48.8,15.3,0.82,0.67,0,0.01,0.31,0,0,0.01
+CA School 435,El Rancho Unified,Pico Rivera,90660,Los Angeles County,Yes,No,No,No,147,9.8,14.9,0.68,0,0,0,0.98,0,0,0.02
+CA School 436,San Bernardino City Unified,Highland,92346,San Bernardino County,Yes,No,No,No,447,28,15.9,0.9,0.2,0,0,0.74,0,0,0.06
+CA School 437,Golden Gate Community District,Pittsburg,94565,Contra Costa County,Yes,Yes,No,No,144,8,18,0.61,0.33,0,0.04,0.42,0.01,0.1,0.1
+CA School 438,Optimist Charter District,Los Angeles,90042,Los Angeles County,Yes,Yes,No,No,70,12,5.8,0.9,0.3,0,0.01,0.57,0,0,0.11
+CA School 439,Madera County Superintendent of Schools,Madera,93638,Madera County,Yes,Yes,No,No,358,17.6,20.3,0.88,0.02,0.01,0.01,0.73,0,0.12,0.11
+CA School 440,Los Angeles Unified,Los Angeles,90016,Los Angeles County,Yes,No,No,No,64,4.5,14.2,0.81,0.28,0,0,0.69,0,0,0.03
+CA School 441,Los Angeles Unified,South Gate,90280,Los Angeles County,Yes,No,No,No,190,8.5,22.3,0.93,0.03,0,0,0.97,0,0,0
+CA School 442,Los Angeles Unified,Los Angeles,90063,Los Angeles County,Yes,No,No,No,48,4,12,0.98,0,0,0,1,0,0,0
+CA School 443,Washington Unified,West Sacramento,95691,Yolo County,Yes,No,No,No,115,8,14.3,0.81,0.1,0.04,0.08,0.55,0.01,0.02,0.2
+CA School 444,Denair Unified,Denair,95316,Stanislaus County,No,Yes,No,No,206,6.2,32.7,0.56,0.01,0.02,0,0.56,0,0.01,0.41
+CA School 445,Desert Sands Unified,Indio,92201,Riverside County,Yes,No,No,No,211,18.1,11.6,0.89,0.01,0.01,0,0.93,0,0.02,0.04
+CA School 446,Marconi Learning Academy District,Sacramento,95821,Sacramento County,(n/a),Yes,No,No,237,10,23.7,0.92,0.27,0.01,0.03,0.49,0.03,0.06,0.11
+CA School 447,San Bernardino County Office of Education,San Bernardino,92415,San Bernardino County,Yes,No,No,No,1388,140.5,9.8,0.71,0.16,0.01,0.04,0.51,0.01,0.07,0.21
+CA School 448,West Contra Costa Unified,Richmond,94801,Contra Costa County,Yes,No,No,No,313,12.4,25.2,0.75,0.2,0,0.07,0.65,0.01,0.02,0.04
+CA School 449,Orange Unified,Orange,92867,Orange County,No,No,No,No,208,18.1,11.4,0.69,0.01,0,0.02,0.86,0,0.01,0.1
+CA School 450,Alvord Unified,Riverside,92503,Riverside County,Yes,No,No,No,168,10,16.8,0.76,0.08,0,0.02,0.83,0.01,0.01,0.05
+CA School 451,Los Angeles County Office of Education,Hawthorne,90250,Los Angeles County,Yes,No,No,No,218,16.4,13.2,0.84,0.16,0,0.01,0.77,0.01,0.01,0.04
+CA School 452,Fresno Unified,Fresno,93727,Fresno County,Yes,No,No,No,493,16.1,30.6,0.94,0.12,0.01,0.09,0.73,0,0,0.04
+CA School 453,Porterville Unified,Porterville,93257,Tulare County,Yes,No,No,No,165,9,18.3,0.82,0,0.07,0.01,0.73,0.01,0.03,0.15
+CA School 454,Los Angeles Unified,Los Angeles,90028,Los Angeles County,Yes,No,No,No,94,6,15.6,0.81,0.01,0,0.01,0.96,0,0,0.02
+CA School 455,Oakland Unified,Oakland,94606,Alameda County,Yes,No,No,No,229,15,15.2,0.87,0.52,0,0.04,0.36,0.02,0.05,0
+CA School 456,Los Angeles Unified,Sylmar,91342,Los Angeles County,Yes,No,No,No,73,4.5,16.2,0.86,0.01,0,0,0.96,0,0,0.03
+CA School 457,Galt Joint Union High,Galt,95632,Sacramento County,Yes,No,No,No,45,3,15,0.8,0,0,0,0.58,0,0.13,0.29
+CA School 458,Santa Cruz County Office of Education,Santa Cruz,95060,Santa Cruz County,Yes,No,No,No,63,4,15.7,0.95,0,0,0,0.92,0,0.03,0.05
+CA School 459,Fresno County Office of Education,Fresno,93725,Fresno County,Yes,No,No,No,242,21.5,11.2,0.98,0.24,0.02,0.02,0.61,0,0,0.11
+CA School 460,Mt. Diablo Unified,Concord,94521,Contra Costa County,No,No,No,No,117,6.5,17.8,0.56,0.04,0,0.05,0.59,0.03,0.03,0.26
+CA School 461,Los Angeles Unified,Los Angeles,90002,Los Angeles County,Yes,No,No,No,63,5,12.6,0.95,0.22,0,0,0.78,0,0,0
+CA School 462,Rialto Unified,Rialto,92376,San Bernardino County,Yes,No,No,No,242,19.1,12.6,0.8,0.11,0,0.01,0.84,0.01,0.01,0.02
+CA School 463,Coalinga-Huron Unified,Huron,93234,Fresno County,Yes,No,No,No,26,2,13,0.89,0,0,0.04,0.96,0,0,0
+CA School 464,Kern High,Shafter,93263,Kern County,Yes,No,No,No,86,4.2,20.2,0.93,0.01,0.01,0,0.93,0,0,0.05
+CA School 465,Chino Valley Unified,Chino Hills,91709,San Bernardino County,No,No,No,No,99,11.9,8.2,0.92,0.24,0,0.01,0.64,0,0.03,0.08
+CA School 466,Carpinteria Unified,Carpinteria,93013,Santa Barbara County,No,No,No,No,30,1.6,18.7,0.7,0,0,0,0.9,0,0,0.1
+CA School 467,Tulare Joint Union High,Tulare,93274,Tulare County,Yes,No,No,No,39,3.1,12.5,0.8,0.13,0,0,0.74,0,0,0.13
+CA School 468,Santa Ana Unified,Santa Ana,92707,Orange County,Yes,No,No,No,385,16,24,0.88,0,0,0,0.99,0,0,0.01
+CA School 469,Oxnard Union High,Camarillo,93010,Ventura County,Yes,No,No,No,313,23,13.6,0.94,0,0,0.01,0.94,0,0.01,0.04
+CA School 470,Inglewood Unified,Inglewood,90301,Los Angeles County,Yes,No,No,No,92,4,23,0.92,0.35,0,0,0.64,0,0,0.01
+CA School 471,Anderson Union High,Anderson,96007,Shasta County,Yes,No,No,No,54,4.3,12.5,0.74,0.02,0.06,0,0.19,0,0.06,0.69
+CA School 472,Yosemite Unified,Oakhurst,93644,Madera County,Yes,No,No,No,33,1,33,0.73,0,0.15,0,0.27,0,0,0.58
+CA School 473,Merced County Office of Education,Los Banos,93635,Merced County,Yes,No,No,No,86,5,17.2,0.92,0.01,0.01,0,0.88,0.02,0.01,0.06
+CA School 474,Los Angeles Unified,Gardena,90248,Los Angeles County,Yes,No,No,No,43,1.5,28.6,0.84,0.14,0,0,0.81,0,0,0.05
+CA School 475,Antelope Valley Union High,Lancaster,93535,Los Angeles County,Yes,No,No,No,48,8.4,5.7,0.79,0.35,0,0,0.54,0,0.06,0.04
+CA School 476,San Pasqual Valley Unified,Winterhaven,92283,Imperial County,Yes,No,No,No,30,1,30,0.9,0,0.53,0,0.33,0,0.07,0.07
+CA School 477,Fort Bragg Unified,Fort Bragg,95437,Mendocino County,Yes,No,No,No,20,2,10,0.85,0,0.05,0,0.25,0,0.1,0.6
